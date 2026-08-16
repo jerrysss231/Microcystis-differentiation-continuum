@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+.Rproj.user/
+results/
+data/*
+!data/README.md
+*.pdf
+*.png
+*.svg
+.DS_Store
